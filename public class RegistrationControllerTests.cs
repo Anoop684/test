@@ -51,4 +51,8 @@ public class RegistrationControllerTests
 
         return signInManager;
     }
+    public void Taik(int a,int b)
+    {
+        return a+b;
+    }
 }
