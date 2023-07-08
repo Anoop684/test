@@ -51,4 +51,8 @@ public class RegistrationControllerTests
 
         return signInManager;
     }
+   public void GitTest()
+   {
+        Console.write("hiiii first remote operation");
+   }
 }
