@@ -54,12 +54,14 @@ public class RegistrationControllerTests
     public void Taik(int a,int b)
     {
         return a+b;
+        a,b,c
     }
 
     public void test{
         a=10;
         b=2;
         a+b;
+        a,b,c,d
     }
      
 }
