@@ -76,4 +76,9 @@ public class RegistrationControllerTests
             reject access denied;
         }
     }
+    public void registration()
+    {
+    console.write("registration");
+    }
+     
 }
