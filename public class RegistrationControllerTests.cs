@@ -64,5 +64,9 @@ public class RegistrationControllerTests
        int sum= q+c;
         
     }
+    public void registration()
+    {
+    console.write("registration");
+    }
      
 }
