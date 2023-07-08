@@ -64,5 +64,16 @@ public class RegistrationControllerTests
        int sum= q+c;
         
     }
-     
+   
+      public void login()
+    {
+        if(credentials match)
+        {
+            accept user;
+        }
+        else
+        {
+            reject access denied;
+        }
+    }
 }
