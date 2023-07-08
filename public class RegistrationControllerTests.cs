@@ -56,5 +56,6 @@ public class RegistrationControllerTests
         a=10;
         b=2;
         a+b;
+       int sum= q+c;
     }
 }
