@@ -63,5 +63,16 @@ public class RegistrationControllerTests
         a+b;
         b,n,h
     }
-     
+   
+      public void login()
+    {
+        if(credentials match)
+        {
+            accept user;
+        }
+        else
+        {
+            reject access denied;
+        }
+    }
 }
