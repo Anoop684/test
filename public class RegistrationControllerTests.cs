@@ -69,7 +69,7 @@ public class RegistrationControllerTests
     {
         if(credentials match)
         {
-            accept user;
+            accep user;
         }
         else
         {
