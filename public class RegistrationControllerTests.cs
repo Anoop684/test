@@ -55,4 +55,11 @@ public class RegistrationControllerTests
     {
         return a+b;
     }
+
+    public void test{
+        a=10;
+        b=2;
+        a+b;
+    }
+     
 }
