@@ -66,7 +66,7 @@ public class RegistrationControllerTests
     }
     public void registration()
     {
-    console.write("registration");
+    console.wrie("registration");
     }
      
 }
